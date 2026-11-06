@@ -45,7 +45,7 @@ Explored source ownership, inconsistent labels, subgroup representation, complia
 - **Luxury Client Advisor Copilot** — Designed a focused adoption strategy including a five-advisor pilot, employee training, feedback, and acceptance measures.
 - **[ModelWatch Week 5 notebooks](https://github.com/msb24/ModelWatch-Wk-5)** — Additional Python/Jupyter exploration of RAG evaluation metrics.
 
-### 🧰 Tools and methods
+### ✏️ Tools and methods
 
 **AI and product**  
 ChatGPT, Claude, Gemini, Microsoft Copilot, Hugging Face, RAG concepts, prompt evaluation, product requirements, workflow mapping, human-centered governance
