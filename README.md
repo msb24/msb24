@@ -1,58 +1,60 @@
-# Maya K
+# Maya Kalantari ✨
 
-**Applied AI systems, product design, evaluation, and governance**  
-M.S. Artificial Intelligence Management, Georgetown University | Expected August 2027  
-Washington, DC
+**Applied AI product design, LLM evaluation, implementation, and governance**  
+🎓 M.S. Artificial Intelligence Management, Georgetown University · Expected August 2027  
+📍 Washington, DC
 
-I work at the intersection of AI prototypes and the people who must use, assess, and govern them. My graduate and independent projects explore how to turn ambiguous operational requirements into testable AI workflows, document what the system can and cannot do, and design human review for consequential decisions.
+I design AI experiences from the **product requirements and system architecture** to the **evaluation criteria, human-review decisions, and adoption strategy**. My portfolio connects AI systems thinking with the reality of how people use, assess, and govern emerging tools.
 
-My portfolio includes interactive prototypes, Python/Jupyter evaluation notebooks, system architecture, data-readiness reviews, rollout plans, and governance controls. Project descriptions distinguish demonstrations using simulated data from live inference or production deployments.
+### 💗 Explore my interactive work
 
-## Featured projects
+#### 🛍️ Omnichannel AI Retail Curator
+**[✨ Try the live personalization demo](https://msb24.github.io/ai-omnichannel-retail-curator/)**  
+**[📁 Explore the project and architecture](https://github.com/msb24/ai-omnichannel-retail-curator)**
 
-### [ModelWatch: RAG monitoring and human review](https://github.com/msb24/ModelWatch-Wk-5)
+Designed a retail recommendation experience around user-controlled preferences, explainability, memory, and correction. The interactive browser demo uses a fictional product catalog and transparent ranking rules. The broader AI product design incorporates proposed computer vision, retrieval-augmented generation, architecture, governance requirements, implementation backlog, and KPIs.
 
-Designed a monitoring workflow for a support-oriented retrieval-augmented assistant. Explored retrieval success, citation mismatch, customer satisfaction, p95 latency, and what evidence an operator needs before escalating an incident.
+#### 🎀 ModelWatch | LLM Evaluation and Incident Review
+**[✨ Try my interactive ModelWatch dashboard](https://modelwatch-ai-prototype-msk.lovable.app/)**  
+**[📓 Explore RAG evaluation code and evidence](https://github.com/msb24/modelwatch-rag-monitor)**
 
-**Evidence:** Python/Jupyter notebooks, test scenarios, monitoring concepts, and a reviewer workflow.  
-**Focus:** LLM evaluation, source grounding, risk-based incident handling.
+Designed an LLM monitoring experience connecting retrieval success, citation mismatch, CSAT, and p95 latency to evidence-based investigation, reviewer assignment, severity, and audit history. Includes synthetic evaluation scenarios and a Python/Jupyter notebook.
 
-### [EventOps Copilot: communication governance](https://github.com/msb24/eventops-copilot-prototype)
+#### 💌 EventOps Copilot | AI Workflow Implementation
+**[✨ Try the EventOps demo](https://eventops-copilot-prototype.vercel.app/)**  
+**[📁 Explore the implementation concept](https://github.com/msb24/eventops-copilot-prototype)**
 
-Built a clickable prototype that translates one verified operational change into audience-specific messages while preserving a common factual record. It includes a source trace, human approval, feedback, challenge paths, and an eight-week pilot design.
+Translated real event-coordination challenges into an AI-assisted operations concept with verified source information, audience-specific communication, human approval, escalation, and adoption planning.
 
-**[Explore the live demo](https://eventops-copilot-prototype.vercel.app/)**  
-**Focus:** AI workflow design, adoption, human oversight, user feedback.  
-**Disclosure:** A static scenario prototype with prewritten messages and synthetic data; no live LLM inference.
+#### 🏥 MHN Decision Trace | Healthcare AI Governance
+**[✨ Explore the decision trace](https://mhn-decision-trace.vercel.app/)**  
+**[📁 Review the source and governance design](https://github.com/msb24/mhn-decision-trace)**
 
-### [MHN Decision Trace: healthcare AI auditability](https://github.com/msb24/mhn-decision-trace)
+Investigated how simulated prior-authorization decisions can be reconstructed through provenance, payer-policy freshness, label consistency, review authority, and audit evidence.
 
-Created an interactive demonstration of how a simulated prior-authorization decision can be reconstructed across source provenance, payer-policy freshness, label consistency, vendor-processing authority, and audit retention. Missing controls hold the decision at a deployment gate.
+#### 📊 Data Readiness Gate | Deployment Decision Controls
+**[✨ Try the readiness assessment](https://data-readiness-audit-gate-prototype.vercel.app/)**  
+**[📁 Explore the data governance project](https://github.com/msb24/data-readiness-audit-gate-prototype)**
 
-**[Explore the live demo](https://mhn-decision-trace.vercel.app/)**  
-**Focus:** Healthcare AI integration, data provenance, reviewability, compliance architecture.  
-**Disclosure:** Student-created simulation using course-scenario information; no real patient data.
+Explored source ownership, inconsistent labels, subgroup representation, compliance requirements, and conditions that should hold an AI release pending remediation.
 
-### [Data Readiness Gate: AI deployment decision controls](https://github.com/msb24/data-readiness-audit-gate-prototype)
+### 🧠 Research and systems work
 
-Built a practice interface for investigating source ownership, inconsistent labels, subgroup representation, compliance gaps, and the decision to hold or release an AI use case.
+- **AI safeguards in education and youth contexts** — Authored a 40-page graduate governance paper exploring accountability, transparency, and meaningful human review.
+- **Healthcare AI integration and MLOps** — Mapped simulated prior-authorization workflows across clinical intake, payer-policy retrieval, vendor-cloud inference, Epic integration, monitoring, and audit controls.
+- **Luxury Client Advisor Copilot** — Designed a focused adoption strategy including a five-advisor pilot, employee training, feedback, and acceptance measures.
+- **[ModelWatch Week 5 notebooks](https://github.com/msb24/ModelWatch-Wk-5)** — Additional Python/Jupyter exploration of RAG evaluation metrics.
 
-**[Explore the live demo](https://data-readiness-audit-gate-prototype.vercel.app/)**  
-**Focus:** Data quality, AI evaluation readiness, human governance.  
-**Disclosure:** Fully fictional example inputs and scores.
+### 🧰 Tools and methods
 
-## Additional AI design and research
+**AI and product**  
+ChatGPT, Claude, Gemini, Microsoft Copilot, Hugging Face, RAG concepts, prompt evaluation, product requirements, workflow mapping, human-centered governance
 
-- **Omnichannel retail AI curator:** Developed a product concept combining computer vision, retrieval-augmented generation, customer memory, human correction, governance requirements, system architecture, implementation backlog, and KPI design.
-- **Responsible AI safeguards:** Authored a 40-page graduate analysis examining AI safeguards, accountability, and risk in education and youth contexts.
-- **Clinical AI integration planning:** Designed and assessed prior-authorization workflows involving Epic integration, external payer policy sources, real-time urgent-case handling, clinical review, audit trails, and MLOps safeguards.
+**Prototype and analysis tools**  
+Python/Jupyter fundamentals, GitHub, Vercel, v0 by Vercel, Figma, and interactive web prototyping (developing and applied-project proficiency)
 
-## Working toolkit
+### 🌷 Portfolio notes
 
-**Applied AI:** ChatGPT, Claude, Gemini, Microsoft Copilot, Hugging Face, prompt evaluation, retrieval-augmented generation concepts, human-review design.  
-**Prototype and workflow tools:** GitHub, Vercel, v0 by Vercel, Figma, Jupyter notebooks, Python fundamentals (developing proficiency).  
-**Methods:** Requirements mapping, risk registers, AI evaluation criteria, implementation planning, product KPIs, stakeholder communication, change management.
+Interactive demonstrations use fictional or synthetic scenarios unless explicitly stated otherwise. Model components described in system architectures may be planned rather than implemented in the live browser interfaces. This allows the projects to show working interactions alongside clear technical boundaries.
 
-## What I am pursuing
-
-Early-career opportunities in AI implementation, AI product and applications, LLM evaluation, enterprise AI adoption, and responsible AI governance, preferably in Washington, DC.
+**✨ [Explore my GitHub repositories](https://github.com/msb24?tab=repositories)**
