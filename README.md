@@ -1,4 +1,4 @@
-# Maya Kalantari ✨
+# Maya K 
 
 **Applied AI product design, LLM evaluation, implementation, and governance**  
 🎓 M.S. Artificial Intelligence Management, Georgetown University · Expected August 2027  
